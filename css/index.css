@@ -160,6 +160,31 @@ p {
   width: 100%;
   margin: 0 auto;
 }
+.nav-wrapper {
+  max-width: 100rem;
+  margin: 0 auto;
+  height: 10rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #d3d3d3;
+  padding-top: 2rem;
+}
+.nav-wrapper h1 {
+  font-size: 3.5rem;
+}
+.nav-wrapper nav {
+  width: 45%;
+  display: flex;
+  justify-content: center;
+}
+.nav-wrapper nav a {
+  color: black;
+  text-decoration: none;
+  font-size: 1.5rem;
+  padding: 1.5rem;
+}
 footer {
   color: #22283B;
   background: #f4f4f4;
@@ -169,6 +194,9 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.home .intro .header-img {
+  width: 100%;
 }
 .home .intro h2 {
   padding: 15px;
@@ -211,6 +239,21 @@ footer {
 }
 .home .walk .walk-text p {
   margin-bottom: 26px;
+}
+.home .walk .walk-text .btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1rem;
+  background-color: black;
+  color: white;
+  font-size: 2rem;
+  height: 4rem;
+  width: 10rem;
+}
+.home .walk .walk-text .btn:hover {
+  background-color: white;
+  color: black;
 }
 .home .walk .walk-img {
   width: 46%;

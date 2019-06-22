@@ -4,6 +4,10 @@
 
   .intro {
 
+    .header-img {
+      width: 100%;
+    }
+
     h2 {
       padding: 15px;
     }
@@ -58,6 +62,12 @@
       }
 
       .btn {
+        .btn-mixin(center, center, black, white);
+
+        &:hover {
+          background-color: white;
+          color: black;
+        }
       }
     }
 

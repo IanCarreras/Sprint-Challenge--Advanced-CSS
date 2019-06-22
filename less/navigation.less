@@ -1,1 +1,27 @@
 // Navigation code here
+.nav-wrapper {
+    max-width: 100rem;
+    margin: 0 auto;
+    height: 10rem;
+    .flex-mixin(column, center, center);
+    background-color: #d3d3d3;
+    padding-top: 2rem;
+
+    h1 {
+        font-size: 3.5rem;
+    }
+
+    nav {
+        width: 45%;
+        display: flex;
+        justify-content: center;
+        
+
+        a {
+            .a-mixin();
+            font-size: 1.5rem;
+            padding: 1.5rem;
+        }
+    }
+
+}
