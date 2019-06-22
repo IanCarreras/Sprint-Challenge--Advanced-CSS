@@ -185,7 +185,7 @@ p {
   font-size: 1.5rem;
   padding: 1.5rem;
 }
-@media (max-width: 800px) {
+@media (max-width: 500px) {
   .nav-wrapper nav {
     width: 80%;
   }
@@ -220,7 +220,7 @@ footer {
   border-radius: 20px;
   height: 100%;
 }
-@media (max-width: 800px) {
+@media (max-width: 500px) {
   .home .space-images .sky {
     display: none;
   }
@@ -282,7 +282,7 @@ footer {
   height: auto;
   border-radius: 10px;
 }
-@media (max-width: 800px) {
+@media (max-width: 500px) {
   .home .walk {
     flex-direction: column;
     align-items: center;
