@@ -33,7 +33,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the difference between an adaptive website and a fully responsive website?
-an responsive website reacts to the size of the browser at any given point whereas an adaptive website responds to the browser at specific points
+A responsive website reacts to the size of the browser at any given point whereas an adaptive website responds to the browser at specific points
 
 2. Describe what it means to be mobile first vs desktop first.
 For mobile first programming the mobile view is coded first then media queries are added for adjusting the layout as the screensize increases
