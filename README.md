@@ -45,7 +45,8 @@ It makes 1rem equal to 10px
 A preprocessor is a scripting language that gives the developer more tools than regular CSS which then get's compiled into normal CSS syntax
 
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
-My favorite concept is nesting as it reduces redundancy The concept that is most confusing to me is 'bubbling'
+My favorite concept is nesting as it reduces redundancy
+The concept that is most confusing to me is 'bubbling'
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
